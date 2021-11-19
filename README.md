@@ -30,14 +30,14 @@
 </p>
 
 ---
-
-<a href="#">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=synthwave&show_icons=true&layout=compact"/>
-</a>
-<a href="#">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryah&count_private=true&theme=synthwave&layout=compact"/>
-</a>
-
+<p align="center">
+	<a href="#">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=synthwave&show_icons=true&layout=compact" />
+	</a>
+	<a href="#">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryah&count_private=true&theme=synthwave&layout=compact" />
+	</a>
+</p>
 ---
 
 <p align="center">
