@@ -9,6 +9,7 @@
 	<br>
 	If I'm active, I'm probably procrasting at work.
 </h1>
+
 <br>
 
 <p align="center">
@@ -16,7 +17,9 @@
 		<img align="center" src="https://lanyard-profile-readme.vercel.app/api/236561912597446666?bg=0d1117" />
 	</a>
 </p>
+
 <br>
+
 <p align="center">
 	<a href="https://github.com/Ryah/Powercord-Utilities">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryah&repo=Powercord-Utilities&theme=synthwave" />
@@ -25,15 +28,15 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryah&repo=Live-Windows-3.0&theme=synthwave" />
 	</a>
 </p>
-<p>&nbsp;</p>
 
 ---
 
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=synthwave&show_icons=true&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryah&count_private=true&theme=synthwave&layout=compact">
-</p>
+<a href="#">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=synthwave&show_icons=true&layout=compact"/>
+</a>
+<a href="#">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryah&count_private=true&theme=synthwave&layout=compact"/>
+</a>
 
 ---
 
