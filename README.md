@@ -33,7 +33,6 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=synthwave&show_icons=true&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryah&count_private=true&theme=synthwave&layout=compact">
-	<br>
 </p>
 
 ---
