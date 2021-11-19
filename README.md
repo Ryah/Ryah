@@ -34,11 +34,10 @@
 	<a href="#">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=synthwave&show_icons=true&layout=compact" />
 	</a>
-	<a href="#">
+	<!-- <a href="#">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryah&count_private=true&theme=synthwave&layout=compact" />
-	</a>
+	</a> -->
 </p>
----
 
 <p align="center">
 	<b>Look at my other things:</b><br>
