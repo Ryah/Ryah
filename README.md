@@ -19,6 +19,12 @@
 	<a href="https://github.com/Ryah/Live-Windows-3.0">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryah&repo=Live-Windows-3.0&theme=nightowl" />
 	</a>
+	<a href="https://github.com/Ryah/SDV-Downgrader">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryah&repo=SDV-Downgrader&theme=nightowl" />
+	</a>
+	<a href="https://github.com/Ryah/SDV-Rebind">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryah&repo=SDV-Rebind&theme=nightowl" />
+	</a>
 </p>
 <br>
 <br>
