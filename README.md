@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/Ryah/Powercord-Utilities">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryah&repo=Powercord-Utilities&theme=nightowl" />
 	</a>
@@ -27,9 +27,9 @@
 	</a>
 </p>
 <br>
-<br>
+<br> -->
 
----
+<!-- ---
 
 <br>
 <br>
@@ -42,7 +42,7 @@
 	</a>
 </p>
 
-<br>
+<br> -->
 
 <p align="center">
 	𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚘𝚝𝚑𝚎𝚛 𝚝𝚑𝚒𝚗𝚐𝚜
