@@ -29,20 +29,18 @@
 <br>
 <br> -->
 
-<!-- ---
-
 <br>
 <br>
 <p align="center">
 	<a href="https://discord.com/users/236561912597446666">
-		<img align="center" src="https://lanyard-profile-readme.vercel.app/api/236561912597446666?bg=0d1117" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryah" />
 	</a>
     <a href="#">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=nightowl&show_icons=true&layout=compact" />
 	</a>
 </p>
 
-<br> -->
+<br>
 
 <p align="center">
 	𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚘𝚝𝚑𝚎𝚛 𝚝𝚑𝚒𝚗𝚐𝚜
