@@ -33,10 +33,10 @@
 <br>
 <p align="center">
 	<a href="https://discord.com/users/236561912597446666">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryah" />
+		<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ryah" />
 	</a>
     <a href="#">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryah&count_private=true&theme=nightowl&show_icons=true&layout=compact" />
+		<img align="center" src="https://github-stats-extended.vercel.app/api?username=Ryah)](https://github.com/stats-organization/github-stats-extended" />
 	</a>
 </p>
 
