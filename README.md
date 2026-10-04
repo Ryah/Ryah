@@ -36,7 +36,7 @@
 		<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ryah" />
 	</a>
     <a href="#">
-		<img align="center" src="https://github-stats-extended.vercel.app/api?username=Ryah)](https://github.com/stats-organization/github-stats-extended" />
+		<img align="center" src="https://github-stats-extended.vercel.app/api?username=Ryah" />
 	</a>
 </p>
 
