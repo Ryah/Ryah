@@ -44,6 +44,6 @@
 
 ---
 
-<p align="center">
-	<!--START_SECTION:activity-->
-</p>
+
+<!--START_SECTION:activity-->
+
