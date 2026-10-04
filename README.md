@@ -42,22 +42,8 @@
 
 <br>
 
-<p align="center">
-	𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚘𝚝𝚑𝚎𝚛 𝚝𝚑𝚒𝚗𝚐𝚜
-	<br>
-	<a href="https://www.youtube.com/channel/UCcbIXBSl0IyA8Kx6yiGSmlA">
-		<img align="center" height="25" width="33" src="https://raw.githubusercontent.com/Ryah/Ryah/main/Images/youtube.svg" />
-	</a> |
-	<a href="https://github.com/Ryah">
-		<img align="center" src="https://raw.githubusercontent.com/Ryah/Ryah/main/Images/GitHub%20(2).svg" height="25" width="33" />
-	</a>
-	<br>
-	<br>
-</p>
-
 ---
 
-<br>
 <p align="center">
-	<img src="https://profile-counter.glitch.me/Ryah/count.svg" />
+	<!--START_SECTION:activity-->
 </p>
