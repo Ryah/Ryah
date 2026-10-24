@@ -46,6 +46,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#591](https://github.com/Droid-Deck/DroidDeck/issues/591#issuecomment-6140921290) in [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
+1. 🚀 Published release [v0.1](https://github.com/Ryah/ATA-Recomp/releases/tag/v0.1) in [Ryah/ATA-Recomp](https://github.com/Ryah/ATA-Recomp)
 <!--END_SECTION:activity-->
 
