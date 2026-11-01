@@ -46,6 +46,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1](https://github.com/Ryah/ATA-Recomp/releases/tag/v0.1) in [Ryah/ATA-Recomp](https://github.com/Ryah/ATA-Recomp)
+1. 🗣 Commented on [#4](https://github.com/Ryah/ST-Freaky-D20-Preset/issues/4#issuecomment-6561857406) in [Ryah/ST-Freaky-D20-Preset](https://github.com/Ryah/ST-Freaky-D20-Preset)
 <!--END_SECTION:activity-->
 
