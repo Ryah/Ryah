@@ -46,6 +46,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Ryah/ST-Freaky-D20-Preset/issues/4#issuecomment-6561857406) in [Ryah/ST-Freaky-D20-Preset](https://github.com/Ryah/ST-Freaky-D20-Preset)
+1. 🚀 Published release [VEXA - v1.0](https://github.com/Ryah/ST-Freaky-D20-Preset/releases/tag/VEXA-v1) in [Ryah/ST-Freaky-D20-Preset](https://github.com/Ryah/ST-Freaky-D20-Preset)
 <!--END_SECTION:activity-->
 
