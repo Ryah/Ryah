@@ -46,6 +46,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [VEXA - v1.0](https://github.com/Ryah/ST-Freaky-D20-Preset/releases/tag/VEXA-v1) in [Ryah/ST-Freaky-D20-Preset](https://github.com/Ryah/ST-Freaky-D20-Preset)
+1. ℹ️ Labeled issue [#1241](https://github.com/MentallyQuill/Tavernary/issues/1241) in [MentallyQuill/Tavernary](https://github.com/MentallyQuill/Tavernary)
 <!--END_SECTION:activity-->
 
